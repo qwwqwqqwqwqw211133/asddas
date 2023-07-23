@@ -3,7 +3,7 @@ ARCHS = arm64 #arm64e
 DEBUG = 0
 FINALPACKAGE = 1
 FOR_RELEASE = 1
-export THEOS = /home/berat/theos
+export THEOS = /opt/theos
 
 # 0 to treat warnings as errors, 1 otherwise.
 IGNORE_WARNINGS=0
