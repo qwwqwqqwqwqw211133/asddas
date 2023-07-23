@@ -1,0 +1,10 @@
+Package: com.prada.extasy1337
+Name: Critical Ops Mod Menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Critical Ops Mod Menu by Extasy!
+Maintainer: Extasy
+Author: Extasy
+Section: Tweaks
+Homepage: 
